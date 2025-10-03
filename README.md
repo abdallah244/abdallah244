@@ -16,24 +16,21 @@ This dashboard-style portfolio showcases my **skills, tools, and proficiency lev
 | Skill        | Proficiency | Chart |
 |--------------|-------------|-------|
 | Angular 🔴   | 80%         | ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) | <div style="background:#ddd; border-radius:6px; width:100%;"><div style="width:80%; background:#DD0031; color:white; padding:4px; border-radius:6px; text-align:center;">80%</div></div> |
-| TypeScript 💙 | 75%        | ![TypeScript](https://progress-bar.dev/75/?scale=100&title=TypeScript&width=200&color=007ACC) |
-| HTML5 🖌️     | 95%         | ![HTML5](https://progress-bar.dev/95/?scale=100&title=HTML5&width=200&color=E34F26) |
-| CSS3 🎨       | 85%         | ![CSS3](https://progress-bar.dev/85/?scale=100&title=CSS3&width=200&color=1572B6) |
-| Node.js 🟢    | 85%         | ![Node.js](https://progress-bar.dev/85/?scale=100&title=Node.js&width=200&color=339933) |
-| Express.js ⚙️ | 80%         | ![Express.js](https://progress-bar.dev/80/?scale=100&title=Express.js&width=200&color=000000) |
-| MongoDB 🍃    | 70%         | ![MongoDB](https://progress-bar.dev/70/?scale=100&title=MongoDB&width=200&color=4EA94B) |
-| Git 🛠️        | 90%         | ![Git](https://progress-bar.dev/90/?scale=100&title=Git&width=200&color=F05032) |
-| Docker 🐳     | 60%         | ![Docker](https://progress-bar.dev/60/?scale=100&title=Docker&width=200&color=2496ED) |
-| VS Code 💻     | 95%         | ![VSCode](https://progress-bar.dev/95/?scale=100&title=VSCode&width=200&color=0078d7) |
+| TypeScript 💙 | 75%        | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) | <div style="background:#ddd; border-radius:6px; width:100%;"><div style="width:75%; background:#007ACC; color:white; padding:4px; border-radius:6px; text-align:center;">75%</div></div> |
+| HTML5 🖌️     | 95%         | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | <div style="background:#ddd; border-radius:6px; width:100%;"><div style="width:95%; background:#E34F26; color:white; padding:4px; border-radius:6px; text-align:center;">95%</div></div> |
+| CSS3 🎨       | 85%         | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | <div style="background:#ddd; border-radius:6px; width:100%;"><div style="width:85%; background:#1572B6; color:white; padding:4px; border-radius:6px; text-align:center;">85%</div></div> |
+
+| Node.js 🟢    | 85%         | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | <div style="background:#ddd; border-radius:6px; width:100%;"><div style="width:85%; background:#339933; color:white; padding:4px; border-radius:6px; text-align:center;">85%</div></div> |
+| Express.js ⚙️ | 80%         | ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) | <div style="background:#ddd; border-radius:6px; width:100%;"><div style="width:80%; background:#000000; color:white; padding:4px; border-radius:6px; text-align:center;">80%</div></div> |
+
+| MongoDB 🍃    | 70%         | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) | <div style="background:#ddd; border-radius:6px; width:100%;"><div style="width:70%; background:#4EA94B; color:white; padding:4px; border-radius:6px; text-align:center;">70%</div></div> |
+
+| Git 🛠️        | 90%         | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | <div style="background:#ddd; border-radius:6px; width:100%;"><div style="width:90%; background:#F05032; color:white; padding:4px; border-radius:6px; text-align:center;">90%</div></div> |
+| Docker 🐳     | 60%         | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | <div style="background:#ddd; border-radius:6px; width:100%;"><div style="width:60%; background:#2496ED; color:white; padding:4px; border-radius:6px; text-align:center;">60%</div></div> |
+| VS Code 💻     | 95%         | ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white) | <div style="background:#ddd; border-radius:6px; width:100%;"><div style="width:95%; background:#0078d7; color:white; padding:4px; border-radius:6px; text-align:center;">95%</div></div> |
 
 ---
 
-## 🔗 Projects & Links
-
-- 🌐 **Live Demo:** [https://abdallah244.github.io/codecraft/](https://abdallah244.github.io/codecraft/)  
-- 💻 **GitHub Repository:** [https://github.com/abdallah244/codecraft](https://github.com/abdallah244/codecraft)  
-
----
 
 ## ✨ Closing Dashboard Note
 
