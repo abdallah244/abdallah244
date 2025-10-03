@@ -1,46 +1,113 @@
-# Abdullah's Full Stack Developer Portfolio 🚀
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Skills Dashboard</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background: #f4f6f8;
+    padding: 20px;
+  }
+  h2 {
+    text-align: center;
+    color: #333;
+  }
+  .skills-container {
+    max-width: 800px;
+    margin: auto;
+  }
+  .skill {
+    margin: 20px 0;
+  }
+  .skill-name {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  .skill-bar {
+    background: #ddd;
+    border-radius: 20px;
+    overflow: hidden;
+    height: 25px;
+  }
+  .skill-level {
+    height: 100%;
+    text-align: right;
+    padding-right: 10px;
+    color: white;
+    line-height: 25px;
+    font-weight: bold;
+    border-radius: 20px;
+  }
+  .angular { width: 80%; background: #DD0031; }
+  .typescript { width: 75%; background: #007ACC; }
+  .html5 { width: 95%; background: #E34F26; }
+  .css3 { width: 85%; background: #1572B6; }
+  .nodejs { width: 85%; background: #339933; }
+  .express { width: 80%; background: #000000; }
+  .mongodb { width: 70%; background: #4EA94B; }
+  .git { width: 90%; background: #F05032; }
+  .docker { width: 60%; background: #2496ED; }
+  .vscode { width: 95%; background: #0078d7; }
+</style>
+</head>
+<body>
 
----
+<h2>📊 Skills Dashboard</h2>
+<div class="skills-container">
 
-## 🌟 About Me
+  <div class="skill">
+    <div class="skill-name">Angular 🔴</div>
+    <div class="skill-bar"><div class="skill-level angular">80%</div></div>
+  </div>
 
-Hey there! 👋 I'm **Abdullah**, a passionate **Full Stack Web Developer** with expertise in **Node.js** & **Angular**.  
-I enjoy building **modern, responsive, and high-performance web applications** that seamlessly combine clean backend logic with stunning frontend designs.  
+  <div class="skill">
+    <div class="skill-name">TypeScript 💙</div>
+    <div class="skill-bar"><div class="skill-level typescript">75%</div></div>
+  </div>
 
-My focus is on creating projects that are not only functional but also beautiful — and that showcase my skills in real-world development 🌍💻.  
+  <div class="skill">
+    <div class="skill-name">HTML5 🖌️</div>
+    <div class="skill-bar"><div class="skill-level html5">95%</div></div>
+  </div>
 
----
+  <div class="skill">
+    <div class="skill-name">CSS3 🎨</div>
+    <div class="skill-bar"><div class="skill-level css3">85%</div></div>
+  </div>
 
-## 🛠 Skills Overview
+  <div class="skill">
+    <div class="skill-name">Node.js 🟢</div>
+    <div class="skill-bar"><div class="skill-level nodejs">85%</div></div>
+  </div>
 
-Below is a breakdown of my core technical skills, rated from **1️⃣ to 🔟0️⃣** to reflect my proficiency level.  
-These skills represent my daily toolkit and the technologies I master to deliver professional-grade web solutions 🎯.
+  <div class="skill">
+    <div class="skill-name">Express.js ⚙️</div>
+    <div class="skill-bar"><div class="skill-level express">80%</div></div>
+  </div>
 
-| Skill        | Proficiency |
-|--------------|-------------|
-| Angular 🔴   | ![80](https://progress-bar.dev/80/?scale=100&title=Angular&width=200&color=DD0031) 80% |
-| TypeScript 💙 | ![75](https://progress-bar.dev/75/?scale=100&title=TypeScript&width=200&color=007ACC) 75% |
-| HTML5 🖌️     | ![95](https://progress-bar.dev/95/?scale=100&title=HTML5&width=200&color=E34F26) 95% |
-| CSS3 🎨       | ![85](https://progress-bar.dev/85/?scale=100&title=CSS3&width=200&color=1572B6) 85% |
-| Node.js 🟢    | ![85](https://progress-bar.dev/85/?scale=100&title=Node.js&width=200&color=339933) 85% |
-| Express.js ⚙️ | ![80](https://progress-bar.dev/80/?scale=100&title=Express.js&width=200&color=000000) 80% |
-| MongoDB 🍃    | ![70](https://progress-bar.dev/70/?scale=100&title=MongoDB&width=200&color=4EA94B) 70% |
-| Git 🛠️        | ![90](https://progress-bar.dev/90/?scale=100&title=Git&width=200&color=F05032) 90% |
-| Docker 🐳     | ![60](https://progress-bar.dev/60/?scale=100&title=Docker&width=200&color=2496ED) 60% |
-| VS Code 💻     | ![95](https://progress-bar.dev/95/?scale=100&title=VSCode&width=200&color=0078d7) 95% |
+  <div class="skill">
+    <div class="skill-name">MongoDB 🍃</div>
+    <div class="skill-bar"><div class="skill-level mongodb">70%</div></div>
+  </div>
 
----
+  <div class="skill">
+    <div class="skill-name">Git 🛠️</div>
+    <div class="skill-bar"><div class="skill-level git">90%</div></div>
+  </div>
 
-## 📌 Live Demo & Repository
+  <div class="skill">
+    <div class="skill-name">Docker 🐳</div>
+    <div class="skill-bar"><div class="skill-level docker">60%</div></div>
+  </div>
 
-🌐 **Live Demo:** [https://abdallah244.github.io/codecraft/](https://abdallah244.github.io/codecraft/)  
-💻 **GitHub Repository:** [https://github.com/abdallah244/codecraft](https://github.com/abdallah244/codecraft)  
+  <div class="skill">
+    <div class="skill-name">VS Code 💻</div>
+    <div class="skill-bar"><div class="skill-level vscode">95%</div></div>
+  </div>
 
----
+</div>
 
-## ✨ Closing Note
-
-This portfolio demonstrates my dedication to building high-quality software 🚀.  
-I strive to enhance my skills every day and love tackling new challenges.  
-
-Let's create amazing projects together! 💡🌍  
+</body>
+</html>
