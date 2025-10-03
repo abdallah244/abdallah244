@@ -15,7 +15,7 @@ This dashboard-style portfolio showcases my **skills, tools, and proficiency lev
 
 | Skill        | Proficiency | Chart |
 |--------------|-------------|-------|
-| Angular 🔴   | 80%         | ![Angular](https://progress-bar.dev/80/?scale=100&title=Angular&width=200&color=DD0031) |
+| Angular 🔴   | 80%         | ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) | <div style="background:#ddd; border-radius:6px; width:100%;"><div style="width:80%; background:#DD0031; color:white; padding:4px; border-radius:6px; text-align:center;">80%</div></div> |
 | TypeScript 💙 | 75%        | ![TypeScript](https://progress-bar.dev/75/?scale=100&title=TypeScript&width=200&color=007ACC) |
 | HTML5 🖌️     | 95%         | ![HTML5](https://progress-bar.dev/95/?scale=100&title=HTML5&width=200&color=E34F26) |
 | CSS3 🎨       | 85%         | ![CSS3](https://progress-bar.dev/85/?scale=100&title=CSS3&width=200&color=1572B6) |
