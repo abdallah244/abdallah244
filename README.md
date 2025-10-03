@@ -1,113 +1,59 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Skills Dashboard</title>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    background: #f4f6f8;
-    padding: 20px;
-  }
-  h2 {
-    text-align: center;
-    color: #333;
-  }
-  .skills-container {
-    max-width: 800px;
-    margin: auto;
-  }
-  .skill {
-    margin: 20px 0;
-  }
-  .skill-name {
-    font-weight: bold;
-    margin-bottom: 5px;
-  }
-  .skill-bar {
-    background: #ddd;
-    border-radius: 20px;
-    overflow: hidden;
-    height: 25px;
-  }
-  .skill-level {
-    height: 100%;
-    text-align: right;
-    padding-right: 10px;
-    color: white;
-    line-height: 25px;
-    font-weight: bold;
-    border-radius: 20px;
-  }
-  .angular { width: 80%; background: #DD0031; }
-  .typescript { width: 75%; background: #007ACC; }
-  .html5 { width: 95%; background: #E34F26; }
-  .css3 { width: 85%; background: #1572B6; }
-  .nodejs { width: 85%; background: #339933; }
-  .express { width: 80%; background: #000000; }
-  .mongodb { width: 70%; background: #4EA94B; }
-  .git { width: 90%; background: #F05032; }
-  .docker { width: 60%; background: #2496ED; }
-  .vscode { width: 95%; background: #0078d7; }
-</style>
-</head>
-<body>
+# 🚀 Full-Stack Developer Portfolio
 
-<h2>📊 Skills Dashboard</h2>
-<div class="skills-container">
+👋 Hi there!  
+Welcome to my **Full-Stack Developer Portfolio** — showcasing a clean, modern landing page built with passion and precision.  
+This project reflects my skills in **Node.js & Angular** and my commitment to creating visually engaging and functional web solutions. 🌟
 
-  <div class="skill">
-    <div class="skill-name">Angular 🔴</div>
-    <div class="skill-bar"><div class="skill-level angular">80%</div></div>
-  </div>
+---
 
-  <div class="skill">
-    <div class="skill-name">TypeScript 💙</div>
-    <div class="skill-bar"><div class="skill-level typescript">75%</div></div>
-  </div>
+## 🔗 Live Demo
+[🌐 Visit the Live Project](https://abdallah244.github.io/codecraft/)
 
-  <div class="skill">
-    <div class="skill-name">HTML5 🖌️</div>
-    <div class="skill-bar"><div class="skill-level html5">95%</div></div>
-  </div>
+---
 
-  <div class="skill">
-    <div class="skill-name">CSS3 🎨</div>
-    <div class="skill-bar"><div class="skill-level css3">85%</div></div>
-  </div>
+## 💻 GitHub Repository
+[🛠️ View Code on GitHub](https://github.com/abdallah244/codecraft)
 
-  <div class="skill">
-    <div class="skill-name">Node.js 🟢</div>
-    <div class="skill-bar"><div class="skill-level nodejs">85%</div></div>
-  </div>
+---
 
-  <div class="skill">
-    <div class="skill-name">Express.js ⚙️</div>
-    <div class="skill-bar"><div class="skill-level express">80%</div></div>
-  </div>
+## 📊 Skills Dashboard
 
-  <div class="skill">
-    <div class="skill-name">MongoDB 🍃</div>
-    <div class="skill-bar"><div class="skill-level mongodb">70%</div></div>
-  </div>
+Here’s a visual dashboard of my technical expertise with proficiency levels:  
 
-  <div class="skill">
-    <div class="skill-name">Git 🛠️</div>
-    <div class="skill-bar"><div class="skill-level git">90%</div></div>
-  </div>
+![Skills Dashboard](https://raw.githubusercontent.com/abdallah244/abdallah244/main/skills_dashboard.svg)
 
-  <div class="skill">
-    <div class="skill-name">Docker 🐳</div>
-    <div class="skill-bar"><div class="skill-level docker">60%</div></div>
-  </div>
+---
 
-  <div class="skill">
-    <div class="skill-name">VS Code 💻</div>
-    <div class="skill-bar"><div class="skill-level vscode">95%</div></div>
-  </div>
+### 🛠 Skills Breakdown
 
-</div>
+| Skill        | Proficiency | Color     |
+|--------------|-------------|-----------|
+| Angular 🔴   | 80%         | #DD0031   |
+| TypeScript 💙| 75%         | #007ACC   |
+| HTML5 🖌️    | 95%         | #E34F26   |
+| CSS3 🎨      | 85%         | #1572B6   |
+| Node.js 🟢    | 85%         | #339933   |
+| Express.js ⚙️| 80%         | #000000   |
+| MongoDB 🍃    | 70%         | #4EA94B   |
+| Git 🛠️       | 90%         | #F05032   |
+| Docker 🐳     | 60%         | #2496ED   |
+| VS Code 💻    | 95%         | #0078d7   |
 
-</body>
-</html>
+---
+
+## 🌟 About This Project
+
+This landing page is a showcase of modern web development skills using **Angular** for frontend, **Node.js** for backend, and **MongoDB** for data management.  
+It demonstrates my ability to design, build, and deploy responsive web applications efficiently.  
+
+✨ **Key Features:**  
+- Clean, minimal design with responsive layout  
+- Angular components with TypeScript  
+- Node.js backend integration  
+- MongoDB database connection  
+- Git version control  
+- Professional skill visualization  
+
+---
+
+💡 This README is crafted to give recruiters, collaborators, and developers a clear snapshot of my skills, coding style, and dedication to quality work.  
