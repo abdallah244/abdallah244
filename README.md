@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi there, I'm Abdallah 👋</h1>
-<h3 align="center">CTO & Equity Partner @ Moien Delivery | Multi-Platform Software Engineer</h3>
+<h3 align="center">CTO & Equity Partner  | Multi-Platform Software Engineer</h3>
 
 <p align="center">
   <a href="https://abdallah.engineer/" target="_blank">
