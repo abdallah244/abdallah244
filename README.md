@@ -47,6 +47,18 @@ I adapt to the right tool for the job. Here is a snapshot of the technologies I 
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+</p>
+
+### 🎨 Design, 3D & Real-Time
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=gsap&logoColor=white" alt="GSAP"/>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.io"/>
+  <img src="https://img.shields.io/badge/WebSockets-109989?style=for-the-badge&logo=WebSockets&logoColor=white" alt="WebSockets"/>
 </p>
 
 ### 📱 Mobile & 💻 Desktop
@@ -69,6 +81,15 @@ I adapt to the right tool for the job. Here is a snapshot of the technologies I 
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 </p>
+
+<br/>
+
+## 🎯 Core Competencies & Leadership
+
+- 💡 **Executive Leadership:** Technical Strategy, Team Mentoring, Product Vision.
+- 🏗️ **Architecture:** System Design, Microservices, Scalable Cloud Solutions.
+- 🔄 **Methodologies:** Agile, Scrum, CI/CD, DevOps workflows.
+- 🧩 **Soft Skills:** Advanced Problem-Solving, Cross-Functional Communication, Business Acumen.
 
 <br/>
 
